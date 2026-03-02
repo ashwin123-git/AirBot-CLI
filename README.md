@@ -54,17 +54,21 @@ project/
 ---
 
 ##  Installation
-
-git clone <your-repo>
-cd project
+``` bash
+git clone https://github.com/ashwin123-git/AirBot-CLI.git
+```
+```bash
+cd AirBot-CLI
+```
+```bash
 pip install -r requirements.txt
-
+```
 ---
 
 ## ▶ Running the Chatbot
-
+```bash
 python app.py
-
+```
 ---
 
 ##  How It Works
